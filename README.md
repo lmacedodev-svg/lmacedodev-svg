@@ -3,7 +3,7 @@
 </p align="center">
 
 <p align="center">
-<img width="1024" height="675" alt="image" src="https://github.com/user-attachments/assets/97af5d3f-2c0a-4ba6-b7d2-3ab59d3d52a7" />
+<img width="1024" height="675" alt="image" src="https://github.com/user-attachments/assets/065f886b-bb82-479a-bbce-1965afb7643d" />
 </p>
 
 <h2 align="center"> Meu estoque de tecnologia <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
